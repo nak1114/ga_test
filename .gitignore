@@ -1,0 +1,7 @@
+ccvs
+*.exe
+*.out
+
+!.gitkeep
+debug
+tmp
